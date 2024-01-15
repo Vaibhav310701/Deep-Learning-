@@ -1,2 +1,3 @@
 # Deep-Learning-
-Ecperiments
+Deep Learning Experiments!
+-> Introduction to Perceptron 
